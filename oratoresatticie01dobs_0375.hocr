@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oratoresatticie01dobs_0375.png"; bbox 0 0 1816 3272; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 464 1341 1162 1405">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 464 1341 1162 1405">
+     <span class='ocr_line' id='line_1_1' title="bbox 464 1341 1162 1405; baseline -0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 464 1341 1162 1405; x_wconf 79' lang='grc' dir='ltr'>ΑΝΔΟΚΙΔΟὙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 638 1529 957 1582">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 638 1529 957 1582">
+     <span class='ocr_line' id='line_1_2' title="bbox 638 1529 957 1582; baseline 0.009 -3"><span class='ocrx_word' id='word_1_2' title='bbox 638 1529 957 1582; x_wconf 87' lang='grc' dir='ltr'><strong>ΛΟΓΟΣ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 89 1697 1628 1744">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 89 1697 1628 1744">
+     <span class='ocr_line' id='line_1_3' title="bbox 89 1697 1628 1744; baseline -0.003 -1"><span class='ocrx_word' id='word_1_3' title='bbox 89 1700 231 1743; x_wconf 86' lang='grc' dir='ltr'>ΠΕΡΙ</span> <span class='ocrx_word' id='word_1_4' title='bbox 255 1698 387 1742; x_wconf 87' lang='grc' dir='ltr'>ΤΗΣ</span> <span class='ocrx_word' id='word_1_5' title='bbox 420 1699 586 1744; x_wconf 86' lang='grc' dir='ltr'>ΠΡΟΣ</span> <span class='ocrx_word' id='word_1_6' title='bbox 609 1697 1204 1744; x_wconf 82' lang='grc' dir='ltr'><strong>ΛΑΚΕΔΑΙΜΟΝΙΟΥΣ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1234 1698 1525 1743; x_wconf 74' lang='lat' dir='ltr'>EIPHNHZ:</span> <span class='ocrx_word' id='word_1_8' title='bbox 1597 1704 1628 1738; x_wconf 68' lang='lat'><em>0</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
